@@ -1,0 +1,12 @@
+CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,EstimatedSalary,Credit Card,Active Member,Name
+582,Germany,Male,41,6,70349.48,2,178074.04,No,Yes,Cameron
+472,Spain,Male,40,4,0,1,70154.22,Yes,No,Hsiao
+465,France,Female,51,8,122522.32,1,181297.65,No,No,Clarke
+556,France,Female,61,2,117419.35,1,94153.83,Yes,Yes,Osborne
+834,France,Female,49,2,131394.56,1,194365.76,No,No,Lavine
+660,Spain,Female,61,5,155931.11,1,158338.39,Yes,Yes,Bianchi
+776,Germany,Female,32,4,109421.13,2,126517.46,Yes,Yes,Tyler
+829,Germany,Female,27,9,112045.67,1,119708.21,Yes,Yes,Martin
+637,Germany,Female,39,9,137843.8,1,117622.8,Yes,Yes,Okagbue
+550,Germany,Male,38,2,103391.38,1,90878.13,No,Yes,Yin
+776,Germany,Female,37,2,103769.22,2,194099.12,Yes,No,Buccho
